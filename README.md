@@ -81,6 +81,3 @@ lib/
 └── mock-data.ts            # Sample data
 ```
 
-## License
-
-MIT
